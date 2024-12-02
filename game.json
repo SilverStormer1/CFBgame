@@ -2,19 +2,17 @@
   "promotionRoutes": {
     "SBC": "SEC",
     "MAC": "B1G",
-    "COL": "ACC",
+    "AAC": "ACC",
     "CUSA": "B12",
-    "MWC": "PAC",
-    "AAC": "GWC"
+    "MWC": "PAC"
   },
   "baseYear": 2024,
   "relegationRoutes": {
     "SEC": "SBC",
     "B1G": "MAC",
-    "ACC": "COL",
+    "AAC": "ACC",
     "B12": "CUSA",
-    "PAC": "MWC",
-    "AAC": "GWC"
+    "PAC": "MWC"
   },
 "conferences": [
   {
@@ -793,101 +791,108 @@
       "confName": "MAC",
       "confTeams": [
         {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
+          "name": "Miami (OH)",
+          "state": "Ohio",
+          "abbreviation": "MIA",
+          "rival": ["BG"],
+          "prestige": "70",
+          "hexColor": "#B61E2E"
+        },
+        {
+          "name": "Ohio",
+          "state": "Ohio",
+          "abbreviation": "OHIO",
+          "rival": ["BALL"],
+          "prestige": "60",
+          "hexColor": "#00694E"
+        },
+        {
+          "name": "Buffalo",
+          "state": "New York",
+          "abbreviation": "BUFF",
+          "rival": ["KENT"],
+          "prestige": "65",
+          "hexColor": "#005BBB"
+        },
+        {
+          "name": "Bowling Green",
+          "state": "Ohio",
+          "abbreviation": "BG",
+          "rival": ["MIA"],
+          "prestige": "50",
+          "hexColor": "#4F2C1D"
+        },
+        {
+          "name": "Western Michigan",
+          "state": "Michigan",
+          "abbreviation": "WMI",
+          "rival": ["EMI"],
+          "prestige": "55",
+          "hexColor": "#532E1F"
+        },
+        {
+          "name": "Toledo",
+          "state": "Ohio",
+          "abbreviation": "TOL",
+          "rival": ["AKR"],
+          "prestige": "60",
+          "hexColor": "#005CB9"
+        },
+        {
+          "name": "Northern Illinois",
+          "state": "Illinoise",
+          "abbreviation": "NIU",
+          "rival": ["CMI"],
+          "prestige": "50",
           "hexColor": ""
         },
         {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
+          "name": "Akron",
+          "state": "Ohio",
+          "abbreviation": "AKR",
+          "rival": ["TOL"],
+          "prestige": "45",
+          "hexColor": "#A89968"
         },
         {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
+          "name": "Eastern Michigan",
+          "state": "Michigan",
+          "abbreviation": "EMI",
+          "rival": ["WMI"],
+          "prestige": "55",
+          "hexColor": "#046A38"
         },
         {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
+          "name": "Central Michigan",
+          "state": "Michigan",
+          "abbreviation": "CMI",
+          "rival": ["NIU"],
+          "prestige": "45",
+          "hexColor": "#6A0032"
         },
         {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
+          "name": "Ball State",
+          "state": "Indiana",
+          "abbreviation": "BALL",
+          "rival": ["OHIO"],
+          "prestige": "60",
+          "hexColor": "#BA0C2F"
         },
         {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
+          "name": "Kent State",
+          "state": "Ohio",
+          "abbreviation": "KENT",
+          "rival": ["BUFF"],
+          "prestige": "45",
           "hexColor": ""
         },
-        {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
-        },
-        {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
-        },
-        {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
-        },
-        {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
-        },
-        {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
-        },
-        {
-          "name": "",
-          "state": "",
-          "abbreviation": "",
-          "rival": [""],
-          "prestige": "",
-          "hexColor": ""
-        },
+      ]
+    },
+    {
+      "confFullName": "American",
+      "confPrestige": "60",
+      "confName": "AAC",
+      "confTeams": [
         {
           "name": "",
           "state": "",
