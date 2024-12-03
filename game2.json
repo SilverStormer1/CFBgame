@@ -105,11 +105,11 @@
       ]
     },
     {
-        "confFullName": "Big 10",
-        "confPrestige": "95",
-        "confName": "B10",
-        "confTeams": [
-            {
+      "confFullName": "Big 10",
+      "confPrestige": "95",
+      "confName": "B10",
+      "confTeams": [
+        {
           "name": "Indiana",
           "state": "Indiana",
           "abbreviation": "INDY",
@@ -173,7 +173,7 @@
           "prestige": "60",
           "hexColor": "#CC0033"
         },
-          {
+        {
           "name": "Nebraska",
           "state": "Nebraska",
           "abbreviation": "NEB",
@@ -189,14 +189,14 @@
           "prestige": "70",
           "hexColor": "#18453B"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "Atlantic Coast",
-        "confPrestige": "90",
-        "confName": "ACC",
-        "confTeams": [
-            {
+      "confFullName": "Atlantic Coast",
+      "confPrestige": "90",
+      "confName": "ACC",
+      "confTeams": [
+        {
           "name": "Clemson",
           "state": "South Carolina",
           "abbreviation": "CLEM",
@@ -252,7 +252,7 @@
           "prestige": "80",
           "hexColor": "#630031"
         },
-          {
+        {
           "name": "Pittsburgh",
           "state": "Pennsylvania",
           "abbreviation": "PITT",
@@ -276,13 +276,13 @@
           "prestige": "75",
           "hexColor": "#7BAFD4"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "Big 12",
-        "confPrestige": "90",
-        "confName": "B12",
-        "confTeams": [
+      "confFullName": "Big 12",
+      "confPrestige": "90",
+      "confName": "B12",
+      "confTeams": [
         {
           "name": "Texas",
           "state": "Texas",
@@ -363,14 +363,14 @@
           "prestige": "70",
           "hexColor": "#000000"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "Pacific Coast",
-        "confPrestige": "85",
-        "confName": "PAC",
-        "confTeams": [
-            {
+      "confFullName": "Pacific Coast",
+      "confPrestige": "85",
+      "confName": "PAC",
+      "confTeams": [
+        {
           "name": "Washington",
           "state": "Washington",
           "abbreviation": "WASH",
@@ -450,13 +450,13 @@
           "prestige": "70",
           "hexColor": "#981E32"
         },
-        ]
+      ]
     },
     {
-        "confFullName": "Great West",
-        "confPrestige": "85",
-        "confName": "GWC",
-        "confTeams": [
+      "confFullName": "Premier Division",
+      "confPrestige": "85",
+      "confName": "PRM",
+      "confTeams": [
         {
           "name": "Boston College",
           "state": "Massachusetts",
@@ -481,7 +481,7 @@
           "prestige": "80",
           "hexColor": "#F1B82D"
         },
-          {
+        {
           "name": "Northwestern",
           "state": "Illinois",
           "abbreviation": "NWST",
@@ -489,7 +489,7 @@
           "prestige": "55",
           "hexColor": "#4E2A84"
         },
-          {
+        {
           "name": "Purdue",
           "state": "Indiana",
           "abbreviation": "PUR",
@@ -497,7 +497,7 @@
           "prestige": "55",
           "hexColor": "#CEB888"
         },
-          {
+        {
           "name": "SMU",
           "state": "Texas",
           "abbreviation": "SMU",
@@ -505,7 +505,7 @@
           "prestige": "85",
           "hexColor": "#C8102E"
         },
-          {
+        {
           "name": "UCF",
           "state": "Florida",
           "abbreviation": "UCF",
@@ -513,7 +513,7 @@
           "prestige": "60",
           "hexColor": "#BA9B37"
         },
-          {
+        {
           "name": "Utah",
           "state": "Utah",
           "abbreviation": "UTAH",
@@ -521,7 +521,7 @@
           "prestige": "70",
           "hexColor": "#CC0000"
         },
-          {
+        {
           "name": "West Virginia",
           "state": "West Virginia",
           "abbreviation": "WVU",
@@ -529,7 +529,7 @@
           "prestige": "70",
           "hexColor": "#002855"
         },
-          {
+        {
           "name": "Colorado",
           "state": "Colorado",
           "abbreviation": "CU",
@@ -537,14 +537,14 @@
           "prestige": "80",
           "hexColor": "#CFB87C"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "Sun Belt",
-        "confPrestige": "70",
-        "confName": "SUN",
-        "confTeams": [
-            {
+      "confFullName": "Sun Belt",
+      "confPrestige": "70",
+      "confName": "SUN",
+      "confTeams": [
+        {
           "name": "Auburn",
           "state": "Alabama",
           "abbreviation": "AUB",
@@ -624,14 +624,14 @@
           "prestige": "50",
           "hexColor": "#8a2432"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "Mid American",
-        "confPrestige": "65",
-        "confName": "MAC",
-        "confTeams": [
-            {
+      "confFullName": "Mid American",
+      "confPrestige": "65",
+      "confName": "MAC",
+      "confTeams": [
+        {
           "name": "Maryland",
           "state": "Maryland",
           "abbreviation": "UMD",
@@ -711,36 +711,36 @@
           "prestige": "60",
           "hexColor": "#BA0C2F"
         },
-        ]
+      ]
     },
     {
-        "confFullName": "Conference USA",
-        "confPrestige": "65",
-        "confName": "CUSA",
-        "confTeams": [
-         {
-          "name": "Oklahoma State",
-          "state": "Oklahoma",
-          "abbreviation": "OKST",
-          "rival": ["CU"],
-          "prestige": "55",
-          "hexColor": "#FF7300"
-          },
-          {
-           "name": "Houston",
-           "state": "Texas",
-           "abbreviation": "HOU",
-           "rival": ["BYU"],
-           "prestige": "65",
-           "hexColor": "#C8102E"
-          },
-          {
-          "name": "Jacksonville State",
-          "state": "Alabama",
-          "abbreviation": "JAX",
-          "rival": ["WKU"],
-          "prestige": "60",
-          "hexColor": "#CC0000"
+      "confFullName": "Conference USA",
+      "confPrestige": "65",
+      "confName": "CUSA",
+      "confTeams": [
+        {
+         "name": "Oklahoma State",
+         "state": "Oklahoma",
+         "abbreviation": "OKST",
+         "rival": ["CU"],
+         "prestige": "55",
+         "hexColor": "#FF7300"
+        },
+        {
+         "name": "Houston",
+         "state": "Texas",
+         "abbreviation": "HOU",
+         "rival": ["BYU"],
+         "prestige": "65",
+         "hexColor": "#C8102E"
+        },
+        {
+         "name": "Jacksonville State",
+         "state": "Alabama",
+         "abbreviation": "JAX",
+         "rival": ["WKU"],
+         "prestige": "60",
+         "hexColor": "#CC0000"
         },
         {
           "name": "Western Kentucky",
@@ -750,7 +750,7 @@
           "prestige": "55",
           "hexColor": "#C60C30"
         },
-          {
+        {
           "name": "Sam Houston",
           "state": "Texas",
           "abbreviation": "SHU",
@@ -758,7 +758,7 @@
           "prestige": "50",
           "hexColor": "#FE5100"
         },
-          {
+        {
           "name": "Liberty",
           "state": "Virginia",
           "abbreviation": "LIB",
@@ -774,7 +774,7 @@
           "prestige": "#002F8B",
           "hexColor": "55"
         },
-          {
+        {
           "name": "North Texas",
           "state": "Texas",
           "abbreviation": "UNT",
@@ -782,7 +782,7 @@
           "prestige": "50",
           "hexColor": "#00853E"
         },
-          {
+        {
           "name": "Texas State",
           "state": "Texas",
           "abbreviation": "TSU",
@@ -790,7 +790,7 @@
           "prestige": "60",
           "hexColor": "#501214"
         },
-          {
+        {
           "name": "UTSA",
           "state": "Texas",
           "abbreviation": "UTSA",
@@ -798,14 +798,14 @@
           "prestige": "55",
           "hexColor": "#F15A22"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "Mountain West",
-        "confPrestige": "70",
-        "confName": "MWC",
-        "confTeams": [
-            {
+      "confFullName": "Mountain West",
+      "confPrestige": "70",
+      "confName": "MWC",
+      "confTeams": [
+        {
           "name": "Boise State",
           "state": "Idaho",
           "abbreviation": "BSU",
@@ -829,7 +829,7 @@
           "prestige": "70",
           "hexColor": "#DB0032"
         },
-          {
+        {
           "name": "Utah State",
           "state": "Utah",
           "abbreviation": "USU",
@@ -837,7 +837,7 @@
           "prestige": "65",
           "hexColor": "#00263A"
         },
-          {
+        {
           "name": "UNLV",
           "state": "Nevada",
           "abbreviation": "UNLV",
@@ -885,14 +885,14 @@
           "prestige": "45",
           "hexColor": "#003366"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "American Athletic",
-        "confPrestige": "75",
-        "confName": "AAC",
-        "confTeams": [
-            {
+      "confFullName": "American Athletic",
+      "confPrestige": "75",
+      "confName": "AAC",
+      "confTeams": [
+        {
           "name": "Virginia",
           "state": "Virginia",
           "abbreviation": "UVA",
@@ -916,7 +916,7 @@
           "prestige": "70",
           "hexColor": "#782F40"
         },
-          {
+        {
           "name": "Tulane",
           "state": "Louisiana",
           "abbreviation": "TLN",
@@ -924,7 +924,7 @@
           "prestige": "75",
           "hexColor": "#006747"
         },
-          {
+        {
           "name": "Memphis",
           "state": "Tennessee",
           "abbreviation": "MEM",
@@ -948,7 +948,7 @@
           "prestige": "60",
           "hexColor": "#CFC493"
         },
-          {
+        {
           "name": "Charlotte",
           "state": "North Carolina",
           "abbreviation": "CLT",
@@ -956,7 +956,7 @@
           "prestige": "55",
           "hexColor": "#046A38"
         },
-          {
+        {
           "name": "UAB",
           "state": "Alabama",
           "abbreviation": "UAB",
@@ -972,14 +972,14 @@
           "prestige": "45",
           "hexColor": "#CC0000"
         }
-        ]
+      ]
     },
     {
-        "confFullName": "Colonial",
-        "confPrestige": "80",
-        "confName": "COL",
-        "confTeams": [
-            {
+      "confFullName": "Championship",
+      "confPrestige": "80",
+      "confName": "CMP",
+      "confTeams": [
+        {
           "name": "UConn",
           "state": "Connecticut",
           "abbreviation": "UCN",
@@ -987,7 +987,7 @@
           "prestige": "60",
           "hexColor": "#000E2F"
         },
-          {
+        {
           "name": "James Madison",
           "state": "Virginia",
           "abbreviation": "JUM",
@@ -1003,7 +1003,7 @@
           "prestige": "45",
           "hexColor": "#828A8F"
         },
-          {
+        {
           "name": "Marshall",
           "state": "West Virginia",
           "abbreviation": "MRSH",
@@ -1011,7 +1011,7 @@
           "prestige": "65",
           "hexColor": "#00AC3E"
         },
-          {
+        {
           "name": "Buffalo",
           "state": "New York",
           "abbreviation": "BUFF",
@@ -1019,7 +1019,7 @@
           "prestige": "65",
           "hexColor": "#005BBB"
         },
-          {
+        {
           "name": "Central Michigan",
           "state": "Michigan",
           "abbreviation": "CMI",
@@ -1027,7 +1027,7 @@
           "prestige": "45",
           "hexColor": "#6A0032"
         },
-          {
+        {
           "name": "Rice",
           "state": "Texas",
           "abbreviation": "RICE",
@@ -1035,7 +1035,7 @@
           "prestige": "50",
           "hexColor": "#00205B"
         },
-          {
+        {
           "name": "Army",
           "state": "New York",
           "abbreviation": "ARMY",
@@ -1043,7 +1043,7 @@
           "prestige": "70",
           "hexColor": "#000000"
         },
-          {
+        {
           "name": "Navy",
           "state": "Maryland",
           "abbreviation": "NAVY",
@@ -1051,7 +1051,7 @@
           "prestige": "60",
           "hexColor": "#00225B"
         },
-          {
+        {
           "name": "Appalachian State",
           "state": "North Carolina",
           "abbreviation": "APP",
@@ -1059,7 +1059,7 @@
           "prestige": "55",
           "hexColor": "#000000"
         }
-        ]
+      ]
     }
   ],
   "bowlGames": [
