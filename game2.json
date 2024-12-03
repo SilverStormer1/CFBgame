@@ -106,7 +106,7 @@
     },
     {
       "confFullName": "Big 10",
-      "confPrestige": "95",
+      "confPrestige": "90",
       "confName": "B10",
       "confTeams": [
         {
@@ -193,7 +193,7 @@
     },
     {
       "confFullName": "Atlantic Coast",
-      "confPrestige": "90",
+      "confPrestige": "85",
       "confName": "ACC",
       "confTeams": [
         {
@@ -280,7 +280,7 @@
     },
     {
       "confFullName": "Big 12",
-      "confPrestige": "90",
+      "confPrestige": "80",
       "confName": "B12",
       "confTeams": [
         {
@@ -367,7 +367,7 @@
     },
     {
       "confFullName": "Pacific Coast",
-      "confPrestige": "85",
+      "confPrestige": "80",
       "confName": "PAC",
       "confTeams": [
         {
@@ -454,7 +454,7 @@
     },
     {
       "confFullName": "Premier Division",
-      "confPrestige": "85",
+      "confPrestige": "75",
       "confName": "PRM",
       "confTeams": [
         {
@@ -715,7 +715,7 @@
     },
     {
       "confFullName": "Conference USA",
-      "confPrestige": "65",
+      "confPrestige": "60",
       "confName": "CUSA",
       "confTeams": [
         {
@@ -802,7 +802,7 @@
     },
     {
       "confFullName": "Mountain West",
-      "confPrestige": "70",
+      "confPrestige": "55",
       "confName": "MWC",
       "confTeams": [
         {
@@ -889,7 +889,7 @@
     },
     {
       "confFullName": "American Athletic",
-      "confPrestige": "75",
+      "confPrestige": "50",
       "confName": "AAC",
       "confTeams": [
         {
@@ -976,7 +976,7 @@
     },
     {
       "confFullName": "Championship",
-      "confPrestige": "80",
+      "confPrestige": "45",
       "confName": "CMP",
       "confTeams": [
         {
@@ -1063,41 +1063,37 @@
     }
   ],
   "bowlGames": [
-    "Rose Bowl",
-    "Peach Bowl",
-    "Sugar Bowl",
-    "Cotton Bowl",
-    "Orange Bowl",
-    "Fiesta Bowl",
-    "Sun Bowl",
-    "Gator Bowl",
-    "Citrus Bowl",
-    "Liberty Bowl",
-    "Independence Bowl",
-    "Holiday Bowl",
-    "Tampa Bay Bowl",
-    "Gauranteed Rate Bowl",
-    "Cheez-It Bowl",
-    "Las Vegas Bowl",
-    "Alamo Bowl",
-    "Idaho Potato Bowl",
-    "Music City Bowl",
-    "Lending Tree Bowl",
-    "New Orleans Bowl",
-    "San Fransisco Bowl",
-    "Hawaii Bowl",
-    "Duke's Mayo Bowl",
-    "Armed Forces Bowl",
-    "Texas Bowl",
-    "Birmingham Bowl",
-    "New Mexico Bowl",
-    "Military Bowl",
-    "Gasparilla Bowl",
-    "Pinstripe Bowl",
-    "First Responder Bowl",
     "Bahamas Bowl",
-    "Boca Raton Bowl",
-    "Chick-Fil-A Bowl",
-    "Quick Lane Bowl"
+    "Cure Bowl",
+    "New Mexico Bowl",
+    "LA Bowl",
+    "LendingTree Bowl",
+    "Independence Bowl",
+    "Gasparilla Bowl",
+    "Hawai'i Bowl",
+    "Camellia Bowl",
+    "Quick Lane Bowl",
+    "First Responder Bowl",
+    "Birmingham Bowl",
+    "Guaranteed Rate Bowl",
+    "Military Bowl",
+    "Duke's Mayo Bowl",
+    "Holiday Bowl",
+    "Texas Bowl",
+    "Fenway Bowl",
+    "Pinstripe Bowl",
+    "Alamo Bowl",
+    "Liberty Bowl",
+    "Sun Bowl",
+    "Arizona Bowl",
+    "Citrus Bowl",
+    "Gator Bowl",
+    "Music City Bowl",
+    "Peach Bowl",
+    "Fiesta Bowl",
+    "Orange Bowl",
+    "Cotton Bowl",
+    "Sugar Bowl",
+    "Rose Bowl",
   ]
 }
