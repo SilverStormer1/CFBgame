@@ -27,7 +27,7 @@
           "state": "Alabama",
           "abbreviation": "BAMA",
           "rival": ["AUB"],
-          "prestige": "1000",
+          "prestige": "91",
           "hexColor": "#9E1B32"
         },
         {
@@ -35,7 +35,7 @@
           "state": "Georiga",
           "abbreviation": "UGA",
           "rival": ["GT"],
-          "prestige": "95",
+          "prestige": "93",
           "hexColor": "#BA0C2F"
         },
         {
@@ -43,7 +43,7 @@
           "state": "Tennessee",
           "abbreviation": "TENN",
           "rival": ["VAND"],
-          "prestige": "85",
+          "prestige": "93",
           "hexColor": "#FF8200"
         },
         {
@@ -51,7 +51,7 @@
           "state": "South Carolina",
           "abbreviation": "SCAR",
           "rival": ["CLEM"],
-          "prestige": "75",
+          "prestige": "89",
           "hexColor": "#73000A"
         },
         {
@@ -59,7 +59,7 @@
           "state": "Texas",
           "abbreviation": "TAMU",
           "rival": ["TEX"],
-          "prestige": "80",
+          "prestige": "85",
           "hexColor": "#500000"
         },
         {
@@ -67,7 +67,7 @@
           "state": "Louisiana",
           "abbreviation": "LSU",
           "rival": ["OKLA"],
-          "prestige": "85",
+          "prestige": "84",
           "hexColor": "#461D7C"
         },
         {
@@ -83,7 +83,7 @@
           "state": "Florida",
           "abbreviation": "UF",
           "rival": ["FSU"],
-          "prestige": "75",
+          "prestige": "82",
           "hexColor": "#0021A5"
         },
         {
@@ -91,7 +91,7 @@
           "state": "Arkansas",
           "abbreviation": "ARK",
           "rival": ["UF"],
-          "prestige": "65",
+          "prestige": "78",
           "hexColor": "#9D2235"
         },
         {
@@ -99,7 +99,7 @@
           "state": "Tennessee",
           "abbreviation": "VAND",
           "rival": ["TENN"],
-          "prestige": "60",
+          "prestige": "78",
           "hexColor": "#866D4B"
         }
       ]
@@ -114,7 +114,7 @@
           "state": "Indiana",
           "abbreviation": "INDY",
           "rival": ["PUR"],
-          "prestige": "75",
+          "prestige": "92",
           "hexColor": "#990000"
         },
         {
@@ -122,7 +122,7 @@
           "state": "Pennsylvania",
           "abbreviation": "PSU",
           "rival": ["UMD"],
-          "prestige": "90",
+          "prestige": "94",
           "hexColor": "#041E42"
         },
         {
@@ -130,7 +130,7 @@
           "state": "Ohio",
           "abbreviation": "OSU",
           "rival": ["MICH"],
-          "prestige": "95",
+          "prestige": "93",
           "hexColor": "#BB0000"
         },
         {
@@ -138,7 +138,7 @@
           "state": "Illinois",
           "abbreviation": "ILLI",
           "rival": ["NWST"],
-          "prestige": "70",
+          "prestige": "88",
           "hexColor": "#13294B"
         },
         {
@@ -146,7 +146,7 @@
           "state": "Iowa",
           "abbreviation": "IOWA",
           "rival": ["NEB"],
-          "prestige": "75",
+          "prestige": "80",
           "hexColor": "#FFCD00"
         },
         {
@@ -154,7 +154,7 @@
           "state": "Michigan",
           "abbreviation": "MICH",
           "rival": ["OSU"],
-          "prestige": "85",
+          "prestige": "83",
           "hexColor": "#00274C"
         },
         {
@@ -170,7 +170,7 @@
           "state": "New Jersey",
           "abbreviation": "RUT",
           "rival": ["MSU"],
-          "prestige": "60",
+          "prestige": "76",
           "hexColor": "#CC0033"
         },
         {
@@ -178,7 +178,7 @@
           "state": "Nebraska",
           "abbreviation": "NEB",
           "rival": ["IOWA"],
-          "prestige": "75",
+          "prestige": "74",
           "hexColor": "#d00000"
         },
         {
@@ -186,7 +186,7 @@
           "state": "Michigan",
           "abbreviation": "MSU",
           "rival": ["RUT"],
-          "prestige": "70",
+          "prestige": "68",
           "hexColor": "#18453B"
         }
       ]
@@ -201,7 +201,7 @@
           "state": "South Carolina",
           "abbreviation": "CLEM",
           "rival": ["SCAR"],
-          "prestige": "90",
+          "prestige": "85",
           "hexColor": "#F56600"
         },
         {
@@ -217,15 +217,15 @@
           "state": "New York",
           "abbreviation": "SYR",
           "rival": ["UM"],
-          "prestige": "75",
+          "prestige": "87",
           "hexColor": "#F76900"
         },
         {
-          "name": "Lousville",
+          "name": "Louisville",
           "state": "Kentucky",
           "abbreviation": "LOU",
           "rival": ["UK"],
-          "prestige": "80",
+          "prestige": "85",
           "hexColor": "#AD0000"
         },
         {
@@ -233,7 +233,7 @@
           "state": "Georiga",
           "abbreviation": "GT",
           "rival": ["UGA"],
-          "prestige": "65",
+          "prestige": "82",
           "hexColor": "#B3A369"
         },
         {
@@ -241,7 +241,7 @@
           "state": "North Carolina",
           "abbreviation": "DUKE",
           "rival": ["WAKE"],
-          "prestige": "70",
+          "prestige": "80",
           "hexColor": "#003087"
         },
         {
@@ -249,7 +249,7 @@
           "state": "Virginia",
           "abbreviation": "VT",
           "rival": ["UVA"],
-          "prestige": "80",
+          "prestige": "72",
           "hexColor": "#630031"
         },
         {
@@ -257,7 +257,7 @@
           "state": "Pennsylvania",
           "abbreviation": "PITT",
           "rival": ["BC"],
-          "prestige": "75",
+          "prestige": "77",
           "hexColor": "#003594"
         },
         {
@@ -265,7 +265,7 @@
           "state": "North Carolina",
           "abbreviation": "NCSU",
           "rival": ["UNC"],
-          "prestige": "85",
+          "prestige": "71",
           "hexColor": "#CC0000"
         },
         {
@@ -273,7 +273,7 @@
           "state": "North Carolina",
           "abbreviation": "UNC",
           "rival": ["NSCU"],
-          "prestige": "75",
+          "prestige": "71",
           "hexColor": "#7BAFD4"
         }
       ]
@@ -288,7 +288,7 @@
           "state": "Texas",
           "abbreviation": "TEX",
           "rival": ["TAMU"],
-          "prestige": "90",
+          "prestige": "95",
           "hexColor": "#bf5700"
         },
         {
@@ -296,7 +296,7 @@
           "state": "Oklahoma",
           "abbreviation": "OKLA",
           "rival": ["LSU"],
-          "prestige": "70",
+          "prestige": "75",
           "hexColor": "#990000"
         },
         {
@@ -304,7 +304,7 @@
           "state": "Utah",
           "abbreviation": "BYU",
           "rival": ["HOU"],
-          "prestige": "90",
+          "prestige": "89",
           "hexColor": "#002E5D"
         },
         {
@@ -312,7 +312,7 @@
           "state": "Iowa",
           "abbreviation": "ISU",
           "rival": ["KSU"],
-          "prestige": "85",
+          "prestige": "88",
           "hexColor": "#C8102E"
         },
         {
@@ -320,7 +320,7 @@
           "state": "Texas",
           "abbreviation": "BAY",
           "rival": ["KAN"],
-          "prestige": "70",
+          "prestige": "81",
           "hexColor": "#154734"
         },
         {
@@ -328,7 +328,7 @@
           "state": "Texas",
           "abbreviation": "TCU",
           "rival": ["CIN"],
-          "prestige": "75",
+          "prestige": "80",
           "hexColor": "#4D1979"
         },
         {
@@ -336,7 +336,7 @@
           "state": "Texas",
           "abbreviation": "TTU",
           "rival": ["WVU"],
-          "prestige": "70",
+          "prestige": "81",
           "hexColor": "#CC0000"
         },
         {
@@ -344,7 +344,7 @@
           "state": "Kansas",
           "abbreviation": "KSU",
           "rival": ["ISU"],
-          "prestige": "75",
+          "prestige": "83",
           "hexColor": "#512888"
         },
         {
@@ -360,7 +360,7 @@
           "state": "Ohio",
           "abbreviation": "CIN",
           "rival": ["TCU"],
-          "prestige": "70",
+          "prestige": "69",
           "hexColor": "#000000"
         }
       ]
@@ -375,7 +375,7 @@
           "state": "Washington",
           "abbreviation": "WASH",
           "rival": ["ORE"],
-          "prestige": "80",
+          "prestige": "76",
           "hexColor": "#39275B"
         },
         {
@@ -391,7 +391,7 @@
           "state": "Arizona",
           "abbreviation": "ASU",
           "rival": ["ARZ"],
-          "prestige": "75",
+          "prestige": "92",
           "hexColor": "#FFC627"
         },
         {
@@ -399,7 +399,7 @@
           "state": "Arizona",
           "abbreviation": "AZ",
           "rival": ["ASU"],
-          "prestige": "60",
+          "prestige": "64",
           "hexColor": "#CC0033"
         },
         {
@@ -407,7 +407,7 @@
           "state": "Oregon",
           "abbreviation": "ORST",
           "rival": ["BSU"],
-          "prestige": "75",
+          "prestige": "58",
           "hexColor": "#DC4405"
         },
         {
@@ -423,7 +423,7 @@
           "state": "California",
           "abbreviation": "UCLA",
           "rival": ["FRE"],
-          "prestige": "65",
+          "prestige": "70",
           "hexColor": "#2D68C4"
         },
         {
@@ -431,7 +431,7 @@
           "state": "California",
           "abbreviation": "STAN",
           "rival": ["SJSU"],
-          "prestige": "55",
+          "prestige": "57",
           "hexColor": "#8C1515"
         },
         {
@@ -439,7 +439,7 @@
           "state": "California",
           "abbreviation": "CAL",
           "rival": ["SMU"],
-          "prestige": "50",
+          "prestige": "73",
           "hexColor": " #003262"
         },
         {
@@ -447,7 +447,7 @@
           "state": "Washington",
           "abbreviation": "WSU",
           "rival": ["WYO"],
-          "prestige": "70",
+          "prestige": "73",
           "hexColor": "#981E32"
         },
       ]
@@ -462,7 +462,7 @@
           "state": "Massachusetts",
           "abbreviation": "BC",
           "rival": ["PITT"],
-          "prestige": "65",
+          "prestige": "77",
           "hexColor": "#98002E"
         },
         {
@@ -470,7 +470,7 @@
           "state": "Indiana",
           "abbreviation": "ND",
           "rival": ["USC"],
-          "prestige": "95",
+          "prestige": "94",
           "hexColor": "#0C2340"
         },
         {
@@ -478,7 +478,7 @@
           "state": "Missouri",
           "abbreviation": "MIZZ",
           "rival": ["ARK"],
-          "prestige": "80",
+          "prestige": "87",
           "hexColor": "#F1B82D"
         },
         {
@@ -486,7 +486,7 @@
           "state": "Illinois",
           "abbreviation": "NWST",
           "rival": ["ILLI"],
-          "prestige": "55",
+          "prestige": "60",
           "hexColor": "#4E2A84"
         },
         {
@@ -494,7 +494,7 @@
           "state": "Indiana",
           "abbreviation": "PUR",
           "rival": ["INDY"],
-          "prestige": "55",
+          "prestige": "49",
           "hexColor": "#CEB888"
         },
         {
@@ -502,7 +502,7 @@
           "state": "Texas",
           "abbreviation": "SMU",
           "rival": ["CAL"],
-          "prestige": "85",
+          "prestige": "92",
           "hexColor": "#C8102E"
         },
         {
@@ -510,7 +510,7 @@
           "state": "Florida",
           "abbreviation": "UCF",
           "rival": ["UTAH"],
-          "prestige": "60",
+          "prestige": "65",
           "hexColor": "#BA9B37"
         },
         {
@@ -518,7 +518,7 @@
           "state": "Utah",
           "abbreviation": "UTAH",
           "rival": ["UCF"],
-          "prestige": "70",
+          "prestige": "68",
           "hexColor": "#CC0000"
         },
         {
@@ -526,7 +526,7 @@
           "state": "West Virginia",
           "abbreviation": "WVU",
           "rival": ["TTU"],
-          "prestige": "70",
+          "prestige": "73",
           "hexColor": "#002855"
         },
         {
@@ -534,7 +534,7 @@
           "state": "Colorado",
           "abbreviation": "CU",
           "rival": ["OKST"],
-          "prestige": "80",
+          "prestige": "88",
           "hexColor": "#CFB87C"
         }
       ]
@@ -557,7 +557,7 @@
           "state": "Kentucky",
           "abbreviation": "UK",
           "rival": ["LOU"],
-          "prestige": "60",
+          "prestige": "65",
           "hexColor": "#0033A0"
         },
         {
@@ -565,7 +565,7 @@
           "state": "Mississippi",
           "abbreviation": "MSST",
           "rival": ["MISS"],
-          "prestige": "60",
+          "prestige": "52",
           "hexColor": "#5D1725"
         },
         {
@@ -573,7 +573,7 @@
           "state": "Georgia",
           "abbreviation": "UGS",
           "rival": ["APP"],
-          "prestige": "60",
+          "prestige": "66",
           "hexColor": "#011E41"
         },
         {
@@ -581,7 +581,7 @@
           "state": "South Carolina",
           "abbreviation": "CCU",
           "rival": ["GSU"],
-          "prestige": "65",
+          "prestige": "55",
           "hexColor": "#006F71"
         },
         {
@@ -589,7 +589,7 @@
           "state": "Louisiana",
           "abbreviation": "ULA",
           "rival": ["ULM"],
-          "prestige": "70",
+          "prestige": "79",
           "hexColor": "#CE181E"
         },
         {
@@ -605,7 +605,7 @@
           "state": "Alabama",
           "abbreviation": "USA",
           "rival": ["TSU"],
-          "prestige": "60",
+          "prestige": "54",
           "hexColor": "#BF0D3E"
         },
         {
@@ -613,7 +613,7 @@
           "state": "Louisiana",
           "abbreviation": "ULM",
           "rival": ["ULA"],
-          "prestige": "45",
+          "prestige": "51",
           "hexColor": "#840029"
         },
         {
@@ -621,7 +621,7 @@
           "state": "Alabama",
           "abbreviation": "TROY",
           "rival": ["USM"],
-          "prestige": "50",
+          "prestige": "48",
           "hexColor": "#8a2432"
         }
       ]
@@ -640,19 +640,19 @@
           "hexColor": "#E03A3E"
         },
         {
-          "name": "Minnesota",
-          "state": "Minnesota",
-          "abbreviation": "MINN",
-          "rival": ["WISC"],
-          "prestige": "65",
-          "hexColor": "#7A0019"
+          "name": "Wisconsin",
+          "state": "Wisconsin",
+          "abbreviation": "WISC",
+          "rival": ["MINN"],
+          "prestige": "69",
+          "hexColor": "#C5050C"
         },
         {
           "name": "Miami (OH)",
           "state": "Ohio",
           "abbreviation": "MIA",
           "rival": ["BG"],
-          "prestige": "70",
+          "prestige": "63",
           "hexColor": "#B61E2E"
         },
         {
@@ -660,7 +660,7 @@
           "state": "Ohio",
           "abbreviation": "OHIO",
           "rival": ["BALL"],
-          "prestige": "60",
+          "prestige": "62",
           "hexColor": "#00694E"
         },
         {
@@ -668,7 +668,7 @@
           "state": "Ohio",
           "abbreviation": "BG",
           "rival": ["MIA"],
-          "prestige": "50",
+          "prestige": "60",
           "hexColor": "#4F2C1D"
         },
         {
@@ -676,7 +676,7 @@
           "state": "Michigan",
           "abbreviation": "WMI",
           "rival": ["EMI"],
-          "prestige": "55",
+          "prestige": "53",
           "hexColor": "#532E1F"
         },
         {
@@ -684,23 +684,23 @@
           "state": "Ohio",
           "abbreviation": "TOL",
           "rival": ["AKR"],
-          "prestige": "60",
+          "prestige": "58",
           "hexColor": "#005CB9"
         },
         {
           "name": "Northern Illinois",
-          "state": "Illinoise",
+          "state": "Illinois",
           "abbreviation": "NIU",
           "rival": ["CMI"],
-          "prestige": "50",
-          "hexColor": ""
+          "prestige": "61",
+          "hexColor": "#BA0C2F"
         },
         {
           "name": "Eastern Michigan",
           "state": "Michigan",
           "abbreviation": "EMI",
           "rival": ["WMI"],
-          "prestige": "55",
+          "prestige": "48",
           "hexColor": "#046A38"
         },
         {
@@ -708,7 +708,7 @@
           "state": "Indiana",
           "abbreviation": "BALL",
           "rival": ["OHIO"],
-          "prestige": "60",
+          "prestige": "47",
           "hexColor": "#BA0C2F"
         },
       ]
@@ -723,7 +723,7 @@
          "state": "Oklahoma",
          "abbreviation": "OKST",
          "rival": ["CU"],
-         "prestige": "55",
+         "prestige": "53",
          "hexColor": "#FF7300"
         },
         {
@@ -731,7 +731,7 @@
          "state": "Texas",
          "abbreviation": "HOU",
          "rival": ["BYU"],
-         "prestige": "65",
+         "prestige": "64",
          "hexColor": "#C8102E"
         },
         {
@@ -739,7 +739,7 @@
          "state": "Alabama",
          "abbreviation": "JAX",
          "rival": ["WKU"],
-         "prestige": "60",
+         "prestige": "67",
          "hexColor": "#CC0000"
         },
         {
@@ -747,7 +747,7 @@
           "state": "Kentucky",
           "abbreviation": "WKU",
           "rival": ["JAX"],
-          "prestige": "55",
+          "prestige": "67",
           "hexColor": "#C60C30"
         },
         {
@@ -755,7 +755,7 @@
           "state": "Texas",
           "abbreviation": "SHU",
           "rival": ["LIB"],
-          "prestige": "50",
+          "prestige": "66",
           "hexColor": "#FE5100"
         },
         {
@@ -763,7 +763,7 @@
           "state": "Virginia",
           "abbreviation": "LIB",
           "rival": ["SHU"],
-          "prestige": "70",
+          "prestige": "63",
           "hexColor": "#002d62"
         },
         {
@@ -771,15 +771,15 @@
           "state": "Louisiana",
           "abbreviation": "LTU",
           "rival": ["KST"],
-          "prestige": "#002F8B",
-          "hexColor": "55"
+          "prestige": "50",
+          "hexColor": "#002F8B"
         },
         {
           "name": "North Texas",
           "state": "Texas",
           "abbreviation": "UNT",
           "rival": ["TEM"],
-          "prestige": "50",
+          "prestige": "57",
           "hexColor": "#00853E"
         },
         {
@@ -787,7 +787,7 @@
           "state": "Texas",
           "abbreviation": "TSU",
           "rival": ["USA"],
-          "prestige": "60",
+          "prestige": "58",
           "hexColor": "#501214"
         },
         {
@@ -795,7 +795,7 @@
           "state": "Texas",
           "abbreviation": "UTSA",
           "rival": ["ECU"],
-          "prestige": "55",
+          "prestige": "57",
           "hexColor": "#F15A22"
         }
       ]
@@ -810,7 +810,7 @@
           "state": "Idaho",
           "abbreviation": "BSU",
           "rival": ["ORST"],
-          "prestige": "80",
+          "prestige": "91",
           "hexColor": "#0033A0"
         },
         {
@@ -818,7 +818,7 @@
           "state": "Colorado",
           "abbreviation": "CSU",
           "rival": ["USU"],
-          "prestige": "65",
+          "prestige": "63",
           "hexColor": "#1E4D2B"
         },
         {
@@ -826,7 +826,7 @@
           "state": "California",
           "abbreviation": "FRST",
           "rival": ["UCLA"],
-          "prestige": "70",
+          "prestige": "59",
           "hexColor": "#DB0032"
         },
         {
@@ -834,7 +834,7 @@
           "state": "Utah",
           "abbreviation": "USU",
           "rival": ["CSU"],
-          "prestige": "65",
+          "prestige": "46",
           "hexColor": "#00263A"
         },
         {
@@ -842,7 +842,7 @@
           "state": "Nevada",
           "abbreviation": "UNLV",
           "rival": ["NEV"],
-          "prestige": "70",
+          "prestige": "86",
           "hexColor": "#CF0A2C"
         },
         {
@@ -850,7 +850,7 @@
           "state": "New Mexico",
           "abbreviation": "NMU",
           "rival": ["HI"],
-          "prestige": "65",
+          "prestige": "54",
           "hexColor": "#63666A"
         },
         {
@@ -858,7 +858,7 @@
           "state": "California",
           "abbreviation": "SJSU",
           "rival": ["STAN"],
-          "prestige": "60",
+          "prestige": "62",
           "hexColor": "#0055A2"
         },
         {
@@ -866,7 +866,7 @@
           "state": "Hawaii",
           "abbreviation": "HI",
           "rival": ["NMU"],
-          "prestige": "50",
+          "prestige": "55",
           "hexColor": "#024731"
         },
         {
@@ -874,7 +874,7 @@
           "state": "Colorado",
           "abbreviation": "AF",
           "rival": ["SDSU"],
-          "prestige": "45",
+          "prestige": "49",
           "hexColor": "#003087"
         },
         {
@@ -882,7 +882,7 @@
           "state": "Nevada",
           "abbreviation": "NEV",
           "rival": ["UNLV"],
-          "prestige": "45",
+          "prestige": "47",
           "hexColor": "#003366"
         }
       ]
@@ -897,7 +897,7 @@
           "state": "Virginia",
           "abbreviation": "UVA",
           "rival": ["VT"],
-          "prestige": "55",
+          "prestige": "70",
           "hexColor": "#F84C1E"
         },
         {
@@ -905,7 +905,7 @@
           "state": "North Carolina",
           "abbreviation": "WAKE",
           "rival": ["DUKE"],
-          "prestige": "80",
+          "prestige": "60",
           "hexColor": "#9E7E38"
         },
         {
@@ -913,7 +913,7 @@
           "state": "Florida",
           "abbreviation": "FSU",
           "rival": ["UF"],
-          "prestige": "70",
+          "prestige": "52",
           "hexColor": "#782F40"
         },
         {
@@ -921,7 +921,7 @@
           "state": "Louisiana",
           "abbreviation": "TLN",
           "rival": ["MEM"],
-          "prestige": "75",
+          "prestige": "83",
           "hexColor": "#006747"
         },
         {
@@ -929,7 +929,7 @@
           "state": "Tennessee",
           "abbreviation": "MEM",
           "rival": ["TLN"],
-          "prestige": "65",
+          "prestige": "86",
           "hexColor": "#003087"
         },
         {
@@ -937,7 +937,7 @@
           "state": "North Carolina",
           "abbreviation": "ECU",
           "rival": ["UTSA"],
-          "prestige": "60",
+          "prestige": "59",
           "hexColor": "#592A8A"
         },
         {
@@ -945,7 +945,7 @@
           "state": "FLorida",
           "abbreviation": "USF",
           "rival": ["RICE"],
-          "prestige": "60",
+          "prestige": "53",
           "hexColor": "#CFC493"
         },
         {
@@ -953,7 +953,7 @@
           "state": "North Carolina",
           "abbreviation": "CLT",
           "rival": ["UAB"],
-          "prestige": "55",
+          "prestige": "50",
           "hexColor": "#046A38"
         },
         {
@@ -961,7 +961,7 @@
           "state": "Alabama",
           "abbreviation": "UAB",
           "rival": ["CLT"],
-          "prestige": "50",
+          "prestige": "46",
           "hexColor": "#006341"
         },
         {
@@ -984,15 +984,15 @@
           "state": "Connecticut",
           "abbreviation": "UCN",
           "rival": ["UMS"],
-          "prestige": "60",
+          "prestige": "68",
           "hexColor": "#000E2F"
         },
         {
           "name": "James Madison",
           "state": "Virginia",
-          "abbreviation": "JUM",
+          "abbreviation": "JMU",
           "rival": ["MRSH"],
-          "prestige": "70",
+          "prestige": "72",
           "hexColor": "#450084"
         },
         {
@@ -1000,7 +1000,7 @@
           "state": "Virginia",
           "abbreviation": "ODU",
           "rival": ["ARST"],
-          "prestige": "45",
+          "prestige": "51",
           "hexColor": "#828A8F"
         },
         {
@@ -1008,7 +1008,7 @@
           "state": "West Virginia",
           "abbreviation": "MRSH",
           "rival": ["JMU"],
-          "prestige": "65",
+          "prestige": "74",
           "hexColor": "#00AC3E"
         },
         {
@@ -1016,7 +1016,7 @@
           "state": "New York",
           "abbreviation": "BUFF",
           "rival": ["KENT"],
-          "prestige": "65",
+          "prestige": "60",
           "hexColor": "#005BBB"
         },
         {
@@ -1024,7 +1024,7 @@
           "state": "Michigan",
           "abbreviation": "CMI",
           "rival": ["NIU"],
-          "prestige": "45",
+          "prestige": "48",
           "hexColor": "#6A0032"
         },
         {
@@ -1040,7 +1040,7 @@
           "state": "New York",
           "abbreviation": "ARMY",
           "rival": ["NAVY"],
-          "prestige": "70",
+          "prestige": "84",
           "hexColor": "#000000"
         },
         {
@@ -1048,7 +1048,7 @@
           "state": "Maryland",
           "abbreviation": "NAVY",
           "rival": ["ARMY"],
-          "prestige": "60",
+          "prestige": "78",
           "hexColor": "#00225B"
         },
         {
@@ -1056,7 +1056,7 @@
           "state": "North Carolina",
           "abbreviation": "APP",
           "rival": ["UGS"],
-          "prestige": "55",
+          "prestige": "57",
           "hexColor": "#000000"
         }
       ]
