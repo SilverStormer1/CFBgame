@@ -392,7 +392,7 @@
           "abbreviation": "ASU",
           "rival": ["ARZ"],
           "prestige": "92",
-          "hexColor": "#FFC627"
+          "hexColor": "#8C1D40"
         },
         {
           "name": "Arizona Wildcats",
@@ -949,7 +949,7 @@
           "hexColor": "#006747"
         },
         {
-          "name": "Charlotte Forty-Niners",
+          "name": "Charlotte Forty Niners",
           "state": "North Carolina",
           "abbreviation": "CLT",
           "rival": ["UAB"],
@@ -970,7 +970,7 @@
           "abbreviation": "FAU",
           "rival": ["TUL"],
           "prestige": "45",
-          "hexColor": "#CC0000"
+          "hexColor": "#003366"
         }
       ]
     },
