@@ -63,7 +63,7 @@
           "hexColor": "#500000"
         },
         {
-          "name": "Louisiana State Tigers",
+          "name": "LSU Tigers",
           "state": "Louisiana",
           "abbreviation": "LSU",
           "rival": ["OKLA"],
@@ -300,7 +300,7 @@
           "hexColor": "#990000"
         },
         {
-          "name": "Brigham Young Cougars",
+          "name": "BYU Cougars",
           "state": "Utah",
           "abbreviation": "BYU",
           "rival": ["HOU"],
@@ -324,7 +324,7 @@
           "hexColor": "#154734"
         },
         {
-          "name": "Texas Christian Horned Frogs",
+          "name": "TCU Horned Frogs",
           "state": "Texas",
           "abbreviation": "TCU",
           "rival": ["CIN"],
@@ -411,7 +411,7 @@
           "hexColor": "#DC4405"
         },
         {
-          "name": "Southern California Trojans",
+          "name": "USC Trojans",
           "state": "California",
           "abbreviation": "USC",
           "rival": ["ND"],
@@ -419,7 +419,7 @@
           "hexColor": "#990000"
         },
         {
-          "name": "Los Angeles Bruins",
+          "name": "UCLA Bruins",
           "state": "California",
           "abbreviation": "UCLA",
           "rival": ["FRE"],
