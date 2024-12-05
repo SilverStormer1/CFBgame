@@ -458,7 +458,7 @@
       "confName": "PRM",
       "confTeams": [
         {
-          "name": "Boston College",
+          "name": "Boston College Eagles",
           "state": "Massachusetts",
           "abbreviation": "BC",
           "rival": ["PITT"],
@@ -466,7 +466,7 @@
           "hexColor": "#98002E"
         },
         {
-          "name": "Notre Dame",
+          "name": "Notre Dame Fighting Irish",
           "state": "Indiana",
           "abbreviation": "ND",
           "rival": ["USC"],
@@ -474,7 +474,7 @@
           "hexColor": "#0C2340"
         },
         {
-          "name": "Missouri",
+          "name": "Missouri Tigers",
           "state": "Missouri",
           "abbreviation": "MIZZ",
           "rival": ["ARK"],
@@ -482,7 +482,7 @@
           "hexColor": "#F1B82D"
         },
         {
-          "name": "Northwestern",
+          "name": "Northwestern Wildcats",
           "state": "Illinois",
           "abbreviation": "NWST",
           "rival": ["ILLI"],
@@ -490,7 +490,7 @@
           "hexColor": "#4E2A84"
         },
         {
-          "name": "Purdue",
+          "name": "Purdue Boilermakers",
           "state": "Indiana",
           "abbreviation": "PUR",
           "rival": ["INDY"],
@@ -498,7 +498,7 @@
           "hexColor": "#CEB888"
         },
         {
-          "name": "SMU",
+          "name": "SMU Mustangs",
           "state": "Texas",
           "abbreviation": "SMU",
           "rival": ["CAL"],
@@ -506,7 +506,7 @@
           "hexColor": "#C8102E"
         },
         {
-          "name": "UCF",
+          "name": "UCF Knights",
           "state": "Florida",
           "abbreviation": "UCF",
           "rival": ["UTAH"],
@@ -514,7 +514,7 @@
           "hexColor": "#BA9B37"
         },
         {
-          "name": "Utah",
+          "name": "Utah Utes",
           "state": "Utah",
           "abbreviation": "UTAH",
           "rival": ["UCF"],
@@ -522,7 +522,7 @@
           "hexColor": "#CC0000"
         },
         {
-          "name": "West Virginia",
+          "name": "West Virginia Mountaineers",
           "state": "West Virginia",
           "abbreviation": "WVU",
           "rival": ["TTU"],
@@ -530,7 +530,7 @@
           "hexColor": "#002855"
         },
         {
-          "name": "Colorado",
+          "name": "Colorado Buffalo",
           "state": "Colorado",
           "abbreviation": "CU",
           "rival": ["OKST"],
@@ -545,7 +545,7 @@
       "confName": "SUN",
       "confTeams": [
         {
-          "name": "Auburn",
+          "name": "Auburn Tigers",
           "state": "Alabama",
           "abbreviation": "AUB",
           "rival": ["BAMA"],
@@ -553,7 +553,7 @@
           "hexColor": "#0C2340"
         },
         {
-          "name": "Kentucky",
+          "name": "Kentucky Wildcats",
           "state": "Kentucky",
           "abbreviation": "UK",
           "rival": ["LOU"],
@@ -561,7 +561,7 @@
           "hexColor": "#0033A0"
         },
         {
-          "name": "Mississippi State",
+          "name": "Mississippi State Bulldogs",
           "state": "Mississippi",
           "abbreviation": "MSST",
           "rival": ["MISS"],
@@ -569,7 +569,7 @@
           "hexColor": "#5D1725"
         },
         {
-          "name": "Georgia Southern",
+          "name": "Georgia Southern Eagles",
           "state": "Georgia",
           "abbreviation": "UGS",
           "rival": ["APP"],
@@ -577,7 +577,7 @@
           "hexColor": "#011E41"
         },
         {
-          "name": "Coastal Carolina",
+          "name": "Coastal Carolina Chanticleers",
           "state": "South Carolina",
           "abbreviation": "CCU",
           "rival": ["GSU"],
@@ -585,7 +585,7 @@
           "hexColor": "#006F71"
         },
         {
-          "name": "Louisiana",
+          "name": "Louisiana Ragin' Cajuns",
           "state": "Louisiana",
           "abbreviation": "ULA",
           "rival": ["ULM"],
@@ -593,7 +593,7 @@
           "hexColor": "#CE181E"
         },
         {
-          "name": "Arkansas State",
+          "name": "Arkansas State Red Wolves",
           "state": "Arkansas",
           "abbreviation": "ARST",
           "rival": ["ODU"],
@@ -601,7 +601,7 @@
           "hexColor": "#CC092F"
         },
         {
-          "name": "South Alabama",
+          "name": "South Alabama Jaguars",
           "state": "Alabama",
           "abbreviation": "USA",
           "rival": ["TSU"],
@@ -609,7 +609,7 @@
           "hexColor": "#BF0D3E"
         },
         {
-          "name": "Louisiana Monroe",
+          "name": "Louisiana-Monroe Warhawks",
           "state": "Louisiana",
           "abbreviation": "ULM",
           "rival": ["ULA"],
@@ -617,7 +617,7 @@
           "hexColor": "#840029"
         },
         {
-          "name": "Troy",
+          "name": "Troy Trojans",
           "state": "Alabama",
           "abbreviation": "TROY",
           "rival": ["USM"],
@@ -632,7 +632,7 @@
       "confName": "MAC",
       "confTeams": [
         {
-          "name": "Maryland",
+          "name": "Maryland Terapins",
           "state": "Maryland",
           "abbreviation": "UMD",
           "rival": ["PSU"],
@@ -640,7 +640,7 @@
           "hexColor": "#E03A3E"
         },
         {
-          "name": "Wisconsin",
+          "name": "Wisconsin Badgers",
           "state": "Wisconsin",
           "abbreviation": "WISC",
           "rival": ["MINN"],
@@ -648,7 +648,7 @@
           "hexColor": "#C5050C"
         },
         {
-          "name": "Miami (OH)",
+          "name": "Miami RedHawks",
           "state": "Ohio",
           "abbreviation": "MIA",
           "rival": ["BG"],
@@ -656,7 +656,7 @@
           "hexColor": "#B61E2E"
         },
         {
-          "name": "Ohio",
+          "name": "Ohio Bobcats",
           "state": "Ohio",
           "abbreviation": "OHIO",
           "rival": ["BALL"],
@@ -664,7 +664,7 @@
           "hexColor": "#00694E"
         },
         {
-          "name": "Bowling Green",
+          "name": "Bowling Green Falcons",
           "state": "Ohio",
           "abbreviation": "BG",
           "rival": ["MIA"],
@@ -672,7 +672,7 @@
           "hexColor": "#4F2C1D"
         },
         {
-          "name": "Western Michigan",
+          "name": "Western Michigan Broncos",
           "state": "Michigan",
           "abbreviation": "WMI",
           "rival": ["EMI"],
@@ -680,7 +680,7 @@
           "hexColor": "#532E1F"
         },
         {
-          "name": "Toledo",
+          "name": "Toledo Rockets",
           "state": "Ohio",
           "abbreviation": "TOL",
           "rival": ["AKR"],
@@ -688,7 +688,7 @@
           "hexColor": "#005CB9"
         },
         {
-          "name": "Northern Illinois",
+          "name": "Northern Illinois Huskies",
           "state": "Illinois",
           "abbreviation": "NIU",
           "rival": ["CMI"],
@@ -696,7 +696,7 @@
           "hexColor": "#BA0C2F"
         },
         {
-          "name": "Eastern Michigan",
+          "name": "Eastern Michigan Eagles",
           "state": "Michigan",
           "abbreviation": "EMI",
           "rival": ["WMI"],
@@ -704,7 +704,7 @@
           "hexColor": "#046A38"
         },
         {
-          "name": "Ball State",
+          "name": "Ball State Cardinals",
           "state": "Indiana",
           "abbreviation": "BALL",
           "rival": ["OHIO"],
@@ -719,7 +719,7 @@
       "confName": "CUSA",
       "confTeams": [
         {
-         "name": "Oklahoma State",
+         "name": "Oklahoma State Cowboys",
          "state": "Oklahoma",
          "abbreviation": "OKST",
          "rival": ["CU"],
@@ -727,7 +727,7 @@
          "hexColor": "#FF7300"
         },
         {
-         "name": "Houston",
+         "name": "Houston Cougars",
          "state": "Texas",
          "abbreviation": "HOU",
          "rival": ["BYU"],
@@ -735,7 +735,7 @@
          "hexColor": "#C8102E"
         },
         {
-         "name": "Jacksonville State",
+         "name": "Jacksonville State Gamecocks",
          "state": "Alabama",
          "abbreviation": "JAX",
          "rival": ["WKU"],
@@ -743,7 +743,7 @@
          "hexColor": "#CC0000"
         },
         {
-          "name": "Western Kentucky",
+          "name": "Western Kentucky Hilltoppers",
           "state": "Kentucky",
           "abbreviation": "WKU",
           "rival": ["JAX"],
@@ -751,7 +751,7 @@
           "hexColor": "#C60C30"
         },
         {
-          "name": "Sam Houston",
+          "name": "Sam Houston Bearcats",
           "state": "Texas",
           "abbreviation": "SHU",
           "rival": ["LIB"],
@@ -759,7 +759,7 @@
           "hexColor": "#FE5100"
         },
         {
-          "name": "Liberty",
+          "name": "Liberty Flames",
           "state": "Virginia",
           "abbreviation": "LIB",
           "rival": ["SHU"],
@@ -767,7 +767,7 @@
           "hexColor": "#002d62"
         },
         {
-          "name": "Louisiana Tech",
+          "name": "Louisiana Tech Bulldogs",
           "state": "Louisiana",
           "abbreviation": "LTU",
           "rival": ["KST"],
@@ -775,7 +775,7 @@
           "hexColor": "#002F8B"
         },
         {
-          "name": "North Texas",
+          "name": "North Texas Mean Green",
           "state": "Texas",
           "abbreviation": "UNT",
           "rival": ["TEM"],
@@ -783,7 +783,7 @@
           "hexColor": "#00853E"
         },
         {
-          "name": "Texas State",
+          "name": "Texas State Bobcats",
           "state": "Texas",
           "abbreviation": "TSU",
           "rival": ["USA"],
@@ -791,7 +791,7 @@
           "hexColor": "#501214"
         },
         {
-          "name": "UTSA",
+          "name": "UTSA Roadrunners",
           "state": "Texas",
           "abbreviation": "UTSA",
           "rival": ["ECU"],
@@ -806,7 +806,7 @@
       "confName": "MWC",
       "confTeams": [
         {
-          "name": "Boise State",
+          "name": "Boise State Broncos",
           "state": "Idaho",
           "abbreviation": "BSU",
           "rival": ["ORST"],
@@ -814,7 +814,7 @@
           "hexColor": "#0033A0"
         },
         {
-          "name": "Colorado State",
+          "name": "Colorado State Rams",
           "state": "Colorado",
           "abbreviation": "CSU",
           "rival": ["USU"],
@@ -822,7 +822,7 @@
           "hexColor": "#1E4D2B"
         },
         {
-          "name": "Fresno State",
+          "name": "Fresno State Bulldogs",
           "state": "California",
           "abbreviation": "FRST",
           "rival": ["UCLA"],
@@ -830,7 +830,7 @@
           "hexColor": "#DB0032"
         },
         {
-          "name": "Utah State",
+          "name": "Utah State Aggies",
           "state": "Utah",
           "abbreviation": "USU",
           "rival": ["CSU"],
@@ -838,7 +838,7 @@
           "hexColor": "#00263A"
         },
         {
-          "name": "UNLV",
+          "name": "UNLV Rebels",
           "state": "Nevada",
           "abbreviation": "UNLV",
           "rival": ["NEV"],
@@ -846,7 +846,7 @@
           "hexColor": "#CF0A2C"
         },
         {
-          "name": "New Mexico",
+          "name": "New Mexico Aggies",
           "state": "New Mexico",
           "abbreviation": "NMU",
           "rival": ["HI"],
@@ -854,7 +854,7 @@
           "hexColor": "#63666A"
         },
         {
-          "name": "San José State",
+          "name": "San José State Spartans",
           "state": "California",
           "abbreviation": "SJSU",
           "rival": ["STAN"],
@@ -862,7 +862,7 @@
           "hexColor": "#0055A2"
         },
         {
-          "name": "Hawai'i",
+          "name": "Hawai'i Rainbow Warriors",
           "state": "Hawaii",
           "abbreviation": "HI",
           "rival": ["NMU"],
@@ -870,7 +870,7 @@
           "hexColor": "#024731"
         },
         {
-          "name": "Air Force",
+          "name": "Air Force Falcons",
           "state": "Colorado",
           "abbreviation": "AF",
           "rival": ["SDSU"],
@@ -878,7 +878,7 @@
           "hexColor": "#003087"
         },
         {
-          "name": "Nevada",
+          "name": "Nevada Wolf Pack",
           "state": "Nevada",
           "abbreviation": "NEV",
           "rival": ["UNLV"],
@@ -893,7 +893,7 @@
       "confName": "AAC",
       "confTeams": [
         {
-          "name": "Virginia",
+          "name": "Virginia Cavaliers",
           "state": "Virginia",
           "abbreviation": "UVA",
           "rival": ["VT"],
@@ -901,7 +901,7 @@
           "hexColor": "#F84C1E"
         },
         {
-          "name": "Wake Forest",
+          "name": "Wake Forest Demon Deacons",
           "state": "North Carolina",
           "abbreviation": "WAKE",
           "rival": ["DUKE"],
@@ -909,7 +909,7 @@
           "hexColor": "#9E7E38"
         },
         {
-          "name": "Florida State",
+          "name": "Florida State Seminoles",
           "state": "Florida",
           "abbreviation": "FSU",
           "rival": ["UF"],
@@ -917,7 +917,7 @@
           "hexColor": "#782F40"
         },
         {
-          "name": "Tulane",
+          "name": "Tulane Green Wave",
           "state": "Louisiana",
           "abbreviation": "TLN",
           "rival": ["MEM"],
@@ -925,7 +925,7 @@
           "hexColor": "#006747"
         },
         {
-          "name": "Memphis",
+          "name": "Memphis Tigers",
           "state": "Tennessee",
           "abbreviation": "MEM",
           "rival": ["TLN"],
@@ -933,7 +933,7 @@
           "hexColor": "#003087"
         },
         {
-          "name": "East Carolina",
+          "name": "East Carolina Pirates",
           "state": "North Carolina",
           "abbreviation": "ECU",
           "rival": ["UTSA"],
@@ -941,7 +941,7 @@
           "hexColor": "#592A8A"
         },
         {
-          "name": "South Florida",
+          "name": "South Florida Bulls",
           "state": "FLorida",
           "abbreviation": "USF",
           "rival": ["RICE"],
@@ -949,7 +949,7 @@
           "hexColor": "#CFC493"
         },
         {
-          "name": "Charlotte",
+          "name": "Charlotte 49ers",
           "state": "North Carolina",
           "abbreviation": "CLT",
           "rival": ["UAB"],
@@ -957,7 +957,7 @@
           "hexColor": "#046A38"
         },
         {
-          "name": "UAB",
+          "name": "UAB Blazers",
           "state": "Alabama",
           "abbreviation": "UAB",
           "rival": ["CLT"],
@@ -965,7 +965,7 @@
           "hexColor": "#006341"
         },
         {
-          "name": "FAU",
+          "name": "FAU Owls",
           "state": "Florida",
           "abbreviation": "FAU",
           "rival": ["TUL"],
@@ -980,7 +980,7 @@
       "confName": "CMP",
       "confTeams": [
         {
-          "name": "UConn",
+          "name": "UConn Huskies",
           "state": "Connecticut",
           "abbreviation": "UCN",
           "rival": ["UMS"],
@@ -988,7 +988,7 @@
           "hexColor": "#000E2F"
         },
         {
-          "name": "James Madison",
+          "name": "James Madison Dukes",
           "state": "Virginia",
           "abbreviation": "JMU",
           "rival": ["MRSH"],
@@ -996,7 +996,7 @@
           "hexColor": "#450084"
         },
         {
-          "name": "Old Dominion",
+          "name": "Old Dominion Monarchs",
           "state": "Virginia",
           "abbreviation": "ODU",
           "rival": ["ARST"],
@@ -1004,7 +1004,7 @@
           "hexColor": "#828A8F"
         },
         {
-          "name": "Marshall",
+          "name": "Marshall Thundering Heard",
           "state": "West Virginia",
           "abbreviation": "MRSH",
           "rival": ["JMU"],
@@ -1012,7 +1012,7 @@
           "hexColor": "#00AC3E"
         },
         {
-          "name": "Buffalo",
+          "name": "Buffalo Bulls",
           "state": "New York",
           "abbreviation": "BUFF",
           "rival": ["KENT"],
@@ -1020,7 +1020,7 @@
           "hexColor": "#005BBB"
         },
         {
-          "name": "Central Michigan",
+          "name": "Central Michigan Chippewas",
           "state": "Michigan",
           "abbreviation": "CMI",
           "rival": ["NIU"],
@@ -1028,7 +1028,7 @@
           "hexColor": "#6A0032"
         },
         {
-          "name": "Rice",
+          "name": "Rice Owls",
           "state": "Texas",
           "abbreviation": "RICE",
           "rival": ["USF"],
@@ -1036,7 +1036,7 @@
           "hexColor": "#00205B"
         },
         {
-          "name": "Army",
+          "name": "Army Black Knights",
           "state": "New York",
           "abbreviation": "ARMY",
           "rival": ["NAVY"],
@@ -1044,7 +1044,7 @@
           "hexColor": "#000000"
         },
         {
-          "name": "Navy",
+          "name": "Navy Midshipmen",
           "state": "Maryland",
           "abbreviation": "NAVY",
           "rival": ["ARMY"],
@@ -1052,7 +1052,7 @@
           "hexColor": "#00225B"
         },
         {
-          "name": "Appalachian State",
+          "name": "Appalachian State Mountaineers",
           "state": "North Carolina",
           "abbreviation": "APP",
           "rival": ["UGS"],
