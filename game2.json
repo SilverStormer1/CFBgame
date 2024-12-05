@@ -585,7 +585,7 @@
           "hexColor": "#006F71"
         },
         {
-          "name": "Louisiana Ragin' Cajuns",
+          "name": "Louisiana Ragin Cajuns",
           "state": "Louisiana",
           "abbreviation": "ULA",
           "rival": ["ULM"],
@@ -609,7 +609,7 @@
           "hexColor": "#BF0D3E"
         },
         {
-          "name": "Louisiana-Monroe Warhawks",
+          "name": "Louisiana Monroe Warhawks",
           "state": "Louisiana",
           "abbreviation": "ULM",
           "rival": ["ULA"],
@@ -862,7 +862,7 @@
           "hexColor": "#0055A2"
         },
         {
-          "name": "Hawai'i Rainbow Warriors",
+          "name": "Hawaii Rainbow Warriors",
           "state": "Hawaii",
           "abbreviation": "HI",
           "rival": ["NMU"],
@@ -949,7 +949,7 @@
           "hexColor": "#CFC493"
         },
         {
-          "name": "Charlotte 49ers",
+          "name": "Charlotte Forty-Niners",
           "state": "North Carolina",
           "abbreviation": "CLT",
           "rival": ["UAB"],
