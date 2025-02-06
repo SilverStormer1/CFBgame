@@ -9,7 +9,7 @@
   },
   "baseYear": 2025,
   "relegationRoutes": {
-    "SEC": "SUN",
+    "SEC": "SBC",
     "B10": "MAC",
     "ACC": "AAC",
     "SWC": "WAC",
@@ -280,7 +280,7 @@
     },
     {
       "confFullName": "Southwest",
-      "confPrestige": "80",
+      "confPrestige": "",
       "confName": "SWC",
       "confTeams": [
         {
@@ -367,7 +367,7 @@
     },
     {
       "confFullName": "Pacific Coast",
-      "confPrestige": "80",
+      "confPrestige": "70",
       "confName": "PAC",
       "confTeams": [
         {
@@ -541,8 +541,8 @@
     },
     {
       "confFullName": "Sun Belt",
-      "confPrestige": "70",
-      "confName": "SUN",
+      "confPrestige": "50",
+      "confName": "SBC",
       "confTeams": [
         {
           "name": "Coastal Carolina Chanticleers",
@@ -628,7 +628,7 @@
     },
     {
       "confFullName": "Middle American",
-      "confPrestige": "65",
+      "confPrestige": "70",
       "confName": "MAC",
       "confTeams": [
         {
@@ -715,7 +715,7 @@
     },
     {
       "confFullName": "Conference USA",
-      "confPrestige": "60",
+      "confPrestige": "55",
       "confName": "CUSA",
       "confTeams": [
         {
@@ -802,7 +802,7 @@
     },
     {
       "confFullName": "Mountain West",
-      "confPrestige": "55",
+      "confPrestige": "65",
       "confName": "MWC",
       "confTeams": [
         {
@@ -889,7 +889,7 @@
     },
     {
       "confFullName": "American Athletic",
-      "confPrestige": "50",
+      "confPrestige": "60",
       "confName": "AAC",
       "confTeams": [
         {
