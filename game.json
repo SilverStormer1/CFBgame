@@ -1,1 +1,18 @@
-
+{
+  "promotionRoutes": {
+    "SBC": "SEC",
+    "BGE": "B10",
+    "AAC": "ACC",
+    "CUSA": "BG8",
+    "MWC": "PAC",
+    "WAC": "SWC"
+  },
+  "baseYear": 2025,
+  "relegationRoutes": {
+    "SEC": "SUN",
+    "B10": "BGE",
+    "ACC": "AAC",
+    "BG8": "CUSA",
+    "PAC": "MWC",
+    "SWC": "WAC"
+  },
