@@ -110,27 +110,67 @@
       "confName": "B10",
       "confTeams": [
         {
-          "name": "Indiana Hoosiers",
-          "state": "Indiana",
-          "abbreviation": "INDY",
-          "rival": ["PUR"],
-          "prestige": "92",
-          "hexColor": "#990000"
+          "name": "Iowa Hawkeyes",
+          "state": "Iowa",
+          "abbreviation": "IOWA",
+          "rival": ["MSU"],
+          "prestige": "86",
+          "hexColor": "#FFCD00"
         },
         {
-          "name": "Penn State Nitty Lions",
-          "state": "Pennsylvania",
-          "abbreviation": "PSU",
-          "rival": ["UMD"],
-          "prestige": "94",
-          "hexColor": "#041E42"
+          "name": "Wisconsin Badgers",
+          "state": "Wisconsin",
+          "abbreviation": "WISC",
+          "rival": ["MINN"],
+          "prestige": "76",
+          "hexColor": "#C5050C"
+        },
+        {
+          "name": "Minnesota Golden Gophers",
+          "state": "Minnesota",
+          "abbreviation": "MINN",
+          "rival": ["WISC"],
+          "prestige": "83",
+          "hexColor": "#7A0019"
+        },
+        {
+          "name": "Northwestern Wildcats",
+          "state": "Illinois",
+          "abbreviation": "NWST",
+          "rival": ["ILLI"],
+          "prestige": "64",
+          "hexColor": "#4E2A84"
+        },
+        {
+          "name": "Purdue Boilermakers",
+          "state": "Indiana",
+          "abbreviation": "PUR",
+          "rival": ["INDY"],
+          "prestige": "51",
+          "hexColor": "#CEB888"
+        },
+        {
+          "name": "Michigan State Spartans",
+          "state": "Michigan",
+          "abbreviation": "MSU",
+          "rival": ["IOWA"],
+          "prestige": "64",
+          "hexColor": "#18453B"
+        },
+        {
+          "name": "Michigan Wolverines",
+          "state": "Michigan",
+          "abbreviation": "MICH",
+          "rival": ["OSU"],
+          "prestige": "87",
+          "hexColor": "#00274C"
         },
         {
           "name": "Ohio State Buckeyes",
           "state": "Ohio",
           "abbreviation": "OSU",
           "rival": ["MICH"],
-          "prestige": "93",
+          "prestige": "95",
           "hexColor": "#BB0000"
         },
         {
@@ -138,56 +178,16 @@
           "state": "Illinois",
           "abbreviation": "ILLI",
           "rival": ["NWST"],
-          "prestige": "88",
+          "prestige": "80",
           "hexColor": "#13294B"
         },
         {
-          "name": "Iowa Hawkeyes",
-          "state": "Iowa",
-          "abbreviation": "IOWA",
-          "rival": ["NEB"],
-          "prestige": "80",
-          "hexColor": "#FFCD00"
-        },
-        {
-          "name": "Michigan Wolverines",
-          "state": "Michigan",
-          "abbreviation": "MICH",
-          "rival": ["OSU"],
-          "prestige": "83",
-          "hexColor": "#00274C"
-        },
-        {
-          "name": "Minnesota Golden Gophers",
-          "state": "Minnesota",
-          "abbreviation": "MINN",
-          "rival": ["WISC"],
-          "prestige": "65",
-          "hexColor": "#7A0019"
-        },
-        {
-          "name": "Rutgers Scarlet Knights",
-          "state": "New Jersey",
-          "abbreviation": "RUT",
-          "rival": ["MSU"],
-          "prestige": "76",
-          "hexColor": "#CC0033"
-        },
-        {
-          "name": "Nebraska Cornhuskers",
-          "state": "Nebraska",
-          "abbreviation": "NEB",
-          "rival": ["IOWA"],
-          "prestige": "74",
-          "hexColor": "#d00000"
-        },
-        {
-          "name": "Michigan State Spartans",
-          "state": "Michigan",
-          "abbreviation": "MSU",
-          "rival": ["RUT"],
-          "prestige": "68",
-          "hexColor": "#18453B"
+          "name": "Indiana Hoosiers",
+          "state": "Indiana",
+          "abbreviation": "INDY",
+          "rival": ["PUR"],
+          "prestige": "91",
+          "hexColor": "#990000"
         }
       ]
     },
