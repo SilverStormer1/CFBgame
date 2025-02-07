@@ -279,89 +279,89 @@
       ]
     },
     {
-      "confFullName": "Big 12",
+      "confFullName": "Southwest",
       "confPrestige": "80",
-      "confName": "B12",
+      "confName": "SWC",
       "confTeams": [
+        {
+          "name": "TCU Horned Frogs",
+          "state": "Texas",
+          "abbreviation": "TCU",
+          "rival": ["BAY"],
+          "prestige": "83",
+          "hexColor": "#4D1979"
+        },
         {
           "name": "Texas Longhorns",
           "state": "Texas",
           "abbreviation": "TEX",
           "rival": ["TAMU"],
-          "prestige": "95",
+          "prestige": "94",
           "hexColor": "#bf5700"
         },
         {
-          "name": "Oklahoma Sooners",
-          "state": "Oklahoma",
-          "abbreviation": "OKLA",
-          "rival": ["LSU"],
-          "prestige": "75",
-          "hexColor": "#990000"
-        },
-        {
-          "name": "BYU Cougars",
-          "state": "Utah",
-          "abbreviation": "BYU",
-          "rival": ["HOU"],
-          "prestige": "89",
-          "hexColor": "#002E5D"
-        },
-        {
-          "name": "Iowa State Cyclones",
-          "state": "Iowa",
-          "abbreviation": "ISU",
-          "rival": ["KSU"],
-          "prestige": "88",
-          "hexColor": "#C8102E"
-        },
-        {
-          "name": "Baylor Bears",
-          "state": "Texas",
-          "abbreviation": "BAY",
-          "rival": ["KAN"],
+          "name": "Tulane Green Wave",
+          "state": "Louisiana",
+          "abbreviation": "TLN",
+          "rival": ["ARK"],
           "prestige": "81",
-          "hexColor": "#154734"
+          "hexColor": "#006747"
         },
         {
-          "name": "TCU Horned Frogs",
+          "name": "SMU Mustangs",
           "state": "Texas",
-          "abbreviation": "TCU",
-          "rival": ["CIN"],
-          "prestige": "80",
-          "hexColor": "#4D1979"
+          "abbreviation": "SMU",
+          "rival": ["TTU"],
+          "prestige": "89",
+          "hexColor": "#C8102E"
         },
         {
           "name": "Texas Tech Red Raiders",
           "state": "Texas",
           "abbreviation": "TTU",
-          "rival": ["WVU"],
-          "prestige": "81",
+          "rival": ["SMU"],
+          "prestige": "76,
           "hexColor": "#CC0000"
         },
         {
-          "name": "Kansas State Wildcats",
-          "state": "Kansas",
-          "abbreviation": "KSU",
-          "rival": ["ISU"],
-          "prestige": "83",
-          "hexColor": "#512888"
+         "name": "Houston Cougars",
+         "state": "Texas",
+         "abbreviation": "HOU",
+         "rival": ["RICE"],
+         "prestige": "66",
+         "hexColor": "#C8102E"
         },
         {
-          "name": "Kansas Jayhawks",
-          "state": "Kansas",
-          "abbreviation": "KAN",
-          "rival": ["BAY"],
-          "prestige": "75",
-          "hexColor": "#0051BA"
+          "name": "Arkansas Razorbacks",
+          "state": "Arkansas",
+          "abbreviation": "ARK",
+          "rival": ["TLN"],
+          "prestige": "80",
+          "hexColor": "#9D2235"
         },
         {
-          "name": "Cincinnati Bearcats",
-          "state": "Ohio",
-          "abbreviation": "CIN",
+          "name": "Texas A&M Aggies",
+          "state": "Texas",
+          "abbreviation": "TAMU",
+          "rival": ["TEX"],
+          "prestige": "88",
+          "hexColor": "#500000"
+        },
+        {
+          "name": "Baylor Bears",
+          "state": "Texas",
+          "abbreviation": "BAY",
           "rival": ["TCU"],
-          "prestige": "69",
-          "hexColor": "#000000"
+          "prestige": "82",
+          "hexColor": "#154734"
+        },
+        {
+          "name": "Rice Owls",
+          "state": "Texas",
+          "abbreviation": "RICE",
+          "rival": ["HOU"],
+          "prestige": "58",
+          "hexColor": "#00205B"
         }
       ]
     },
