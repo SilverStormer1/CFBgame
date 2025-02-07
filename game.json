@@ -280,7 +280,7 @@
     },
     {
       "confFullName": "Southwest",
-      "confPrestige": "",
+      "confPrestige": "80",
       "confName": "SWC",
       "confTeams": [
         {
