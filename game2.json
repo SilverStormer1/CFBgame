@@ -201,80 +201,80 @@
           "state": "South Carolina",
           "abbreviation": "CLEM",
           "rival": ["SCAR"],
-          "prestige": "85",
+          "prestige": "89",
           "hexColor": "#F56600"
-        },
-        {
-          "name": "Miami Hurricanes",
-          "state": "Florida",
-          "abbreviation": "UM",
-          "rival": ["SYR"],
-          "prestige": "90",
-          "hexColor": "#005030"
-        },
-        {
-          "name": "Syracuse Orange",
-          "state": "New York",
-          "abbreviation": "SYR",
-          "rival": ["UM"],
-          "prestige": "87",
-          "hexColor": "#F76900"
-        },
-        {
-          "name": "Louisville Cardinals",
-          "state": "Kentucky",
-          "abbreviation": "LOU",
-          "rival": ["UK"],
-          "prestige": "85",
-          "hexColor": "#AD0000"
-        },
-        {
-          "name": "Georgia Tech Yellow Jackets",
-          "state": "Georiga",
-          "abbreviation": "GT",
-          "rival": ["UGA"],
-          "prestige": "82",
-          "hexColor": "#B3A369"
         },
         {
           "name": "Duke Blue Devils",
           "state": "North Carolina",
           "abbreviation": "DUKE",
-          "rival": ["WAKE"],
-          "prestige": "80",
+          "rival": ["UNC"],
+          "prestige": "71",
           "hexColor": "#003087"
         },
         {
-          "name": "Virginia Tech Hokies",
+          "name": "Virginia Cavaliers",
           "state": "Virginia",
-          "abbreviation": "VT",
-          "rival": ["UVA"],
-          "prestige": "72",
-          "hexColor": "#630031"
-        },
-        {
-          "name": "Pittsburgh Panthers",
-          "state": "Pennsylvania",
-          "abbreviation": "PITT",
-          "rival": ["BC"],
-          "prestige": "77",
-          "hexColor": "#003594"
-        },
-        {
-          "name": "North Carolina State Wolfpack",
-          "state": "North Carolina",
-          "abbreviation": "NCSU",
-          "rival": ["UNC"],
-          "prestige": "71",
-          "hexColor": "#CC0000"
+          "abbreviation": "UVA",
+          "rival": ["MD"],
+          "prestige": "65",
+          "hexColor": "#F84C1E"
         },
         {
           "name": "North Carolina Tarheels",
           "state": "North Carolina",
           "abbreviation": "UNC",
-          "rival": ["NSCU"],
-          "prestige": "71",
+          "rival": ["DUKE"],
+          "prestige": "70",
           "hexColor": "#7BAFD4"
+        },
+        {
+          "name": "Georgia Tech Yellow Jackets",
+          "state": "Georiga",
+          "abbreviation": "GT",
+          "rival": ["FSU"],
+          "prestige": "78",
+          "hexColor": "#B3A369"
+        },
+        {
+          "name": "North Carolina State Wolfpack",
+          "state": "North Carolina",
+          "abbreviation": "NCSU",
+          "rival": ["WAKE"],
+          "prestige": "68",
+          "hexColor": "#CC0000"
+        },
+        {
+          "name": "Wake Forest Demon Deacons",
+          "state": "North Carolina",
+          "abbreviation": "WAKE",
+          "rival": ["NCSU"],
+          "prestige": "61",
+          "hexColor": "#9E7E38"
+        },
+        {
+          "name": "Florida State Seminoles",
+          "state": "Florida",
+          "abbreviation": "FSU",
+          "rival": ["GT"],
+          "prestige": "65",
+          "hexColor": "#782F40"
+        },
+        {
+          "name": "Maryland Terapins",
+          "state": "Maryland",
+          "abbreviation": "MD",
+          "rival": ["UVA"],
+          "prestige": "68",
+          "hexColor": "#E03A3E"
+        },
+        {
+          "name": "South Carolina Gamecocks",
+          "state": "South Carolina",
+          "abbreviation": "SCAR",
+          "rival": ["CLEM"],
+          "prestige": "90",
+          "hexColor": "#73000A"
         }
       ]
     },
