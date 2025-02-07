@@ -366,93 +366,6 @@
       ]
     },
     {
-      "confFullName": "Pacific Coastal",
-      "confPrestige": "70",
-      "confName": "PAC",
-      "confTeams": [
-        {
-          "name": "Arizona Wildcats",
-          "state": "Arizona",
-          "abbreviation": "AZ",
-          "rival": ["ASU"],
-          "prestige": "63",
-          "hexColor": "#CC0033"
-        },
-        {
-          "name": "Arizona State Sun Devils",
-          "state": "Arizona",
-          "abbreviation": "ASU",
-          "rival": ["AZ"],
-          "prestige": "87",
-          "hexColor": "#8C1D40"
-        },
-        {
-          "name": "Washington Huskies",
-          "state": "Washington",
-          "abbreviation": "WASH",
-          "rival": ["WSU"],
-          "prestige": "75",
-          "hexColor": "#39275B"
-        },
-        {
-          "name": "Washington State Cougars",
-          "state": "Washington",
-          "abbreviation": "WSU",
-          "rival": ["WASH"],
-          "prestige": "67",
-          "hexColor": "#981E32"
-        },
-        {
-          "name": "Oregon State Beavers",
-          "state": "Oregon",
-          "abbreviation": "ORST",
-          "rival": ["ORE"],
-          "prestige": "57",
-          "hexColor": "#DC4405"
-        },
-        {
-          "name": "USC Trojans",
-          "state": "California",
-          "abbreviation": "USC",
-          "rival": ["UCLA"],
-          "prestige": "88",
-          "hexColor": "#990000"
-        },
-        {
-          "name": "UCLA Bruins",
-          "state": "California",
-          "abbreviation": "UCLA",
-          "rival": ["USC"],
-          "prestige": "73",
-          "hexColor": "#2D68C4"
-        },
-        {
-          "name": "Stanford Cardinal",
-          "state": "California",
-          "abbreviation": "STAN",
-          "rival": ["CAL"],
-          "prestige": "60",
-          "hexColor": "#8C1515"
-        },
-        {
-          "name": "California Golden Bears",
-          "state": "California",
-          "abbreviation": "CAL",
-          "rival": ["STAN"],
-          "prestige": "70",
-          "hexColor": "#003262"
-        },
-        {
-          "name": "Oregon Ducks",
-          "state": "Oregon",
-          "abbreviation": "ORE",
-          "rival": ["ORST"],
-          "prestige": "92",
-          "hexColor": "#489D46"
-        }
-      ]
-    },
-    {
       "confFullName": "Eastern Coastal",
       "confPrestige": "75",
       "confName": "ECC",
@@ -540,89 +453,89 @@
       ]
     },
     {
-      "confFullName": "Sun Belt",
-      "confPrestige": "50",
-      "confName": "SBC",
+      "confFullName": "Pacific Coastal",
+      "confPrestige": "70",
+      "confName": "PAC",
       "confTeams": [
         {
-          "name": "Coastal Carolina Chanticleers",
-          "state": "South Carolina",
-          "abbreviation": "CCU",
-          "rival": ["APP"],
-          "prestige": "55",
-          "hexColor": "#006F71"
+          "name": "Arizona Wildcats",
+          "state": "Arizona",
+          "abbreviation": "AZ",
+          "rival": ["ASU"],
+          "prestige": "63",
+          "hexColor": "#CC0033"
         },
         {
-          "name": "South Alabama Jaguars",
-          "state": "Alabama",
-          "abbreviation": "USA",
-          "rival": ["TROY"],
+          "name": "Arizona State Sun Devils",
+          "state": "Arizona",
+          "abbreviation": "ASU",
+          "rival": ["AZ"],
+          "prestige": "87",
+          "hexColor": "#8C1D40"
+        },
+        {
+          "name": "Washington Huskies",
+          "state": "Washington",
+          "abbreviation": "WASH",
+          "rival": ["WSU"],
+          "prestige": "75",
+          "hexColor": "#39275B"
+        },
+        {
+          "name": "Washington State Cougars",
+          "state": "Washington",
+          "abbreviation": "WSU",
+          "rival": ["WASH"],
           "prestige": "67",
-          "hexColor": "#BF0D3E"
+          "hexColor": "#981E32"
         },
         {
-          "name": "James Madison Dukes",
-          "state": "Virginia",
-          "abbreviation": "JMU",
-          "rival": ["ODU"],
-          "prestige": "69",
-          "hexColor": "#450084"
+          "name": "Oregon State Beavers",
+          "state": "Oregon",
+          "abbreviation": "ORST",
+          "rival": ["ORE"],
+          "prestige": "57",
+          "hexColor": "#DC4405"
         },
         {
-          "name": "Georgia Southern Eagles",
-          "state": "Georgia",
-          "abbreviation": "UGS",
-          "rival": ["GSU"],
+          "name": "USC Trojans",
+          "state": "California",
+          "abbreviation": "USC",
+          "rival": ["UCLA"],
+          "prestige": "88",
+          "hexColor": "#990000"
+        },
+        {
+          "name": "UCLA Bruins",
+          "state": "California",
+          "abbreviation": "UCLA",
+          "rival": ["USC"],
+          "prestige": "73",
+          "hexColor": "#2D68C4"
+        },
+        {
+          "name": "Stanford Cardinal",
+          "state": "California",
+          "abbreviation": "STAN",
+          "rival": ["CAL"],
           "prestige": "60",
-          "hexColor": "#011E41"
+          "hexColor": "#8C1515"
         },
         {
-          "name": "Appalachian State Mountaineers",
-          "state": "North Carolina",
-          "abbreviation": "APP",
-          "rival": ["CCU"],
-          "prestige": "58",
-          "hexColor": "#000000"
+          "name": "California Golden Bears",
+          "state": "California",
+          "abbreviation": "CAL",
+          "rival": ["STAN"],
+          "prestige": "70",
+          "hexColor": "#003262"
         },
         {
-          "name": "Georgia State Panthers",
-          "state": "Georgia",
-          "abbreviation": "GSU",
-          "rival": ["UGS"],
-          "prestige": "50",
-          "hexColor": "#0039A6"
-        },
-        {
-          "name": "Troy Trojans",
-          "state": "Alabama",
-          "abbreviation": "TROY",
-          "rival": ["USA"],
-          "prestige": "56",
-          "hexColor": "#8a2432"
-        },
-        {
-          "name": "Arkansas State Red Wolves",
-          "state": "Arkansas",
-          "abbreviation": "ARST",
-          "rival": ["JAX"],
-          "prestige": "53",
-          "hexColor": "#CC092F"
-        },
-        {
-          "name": "Old Dominion Monarchs",
-          "state": "Virginia",
-          "abbreviation": "ODU",
-          "rival": ["JMU"],
-          "prestige": "62",
-          "hexColor": "#828A8F"
-        },
-        {
-         "name": "Jacksonville State Gamecocks",
-         "state": "Alabama",
-         "abbreviation": "JAX",
-         "rival": ["ARST"],
-         "prestige": "63",
-         "hexColor": "#CC0000"
+          "name": "Oregon Ducks",
+          "state": "Oregon",
+          "abbreviation": "ORE",
+          "rival": ["ORST"],
+          "prestige": "92",
+          "hexColor": "#489D46"
         }
       ]
     },
@@ -710,94 +623,6 @@
           "rival": ["NEB"],
           "prestige": "84",
           "hexColor": "#CFB87C"
-        }
-      ]
-    },
-    {
-      "confFullName": "Conference USA",
-      "confPrestige": "55",
-      "confName": "CUSA",
-      "confTeams": [
-        {
-          "name": "Liberty Flames",
-          "state": "Virginia",
-          "abbreviation": "LIB",
-          "rival": ["MRSH"],
-          "prestige": "58",
-          "hexColor": "#002d62"
-        },
-        {
-          "name": "Charlotte Forty Niners",
-          "state": "North Carolina",
-          "abbreviation": "CLT",
-          "rival": ["MASS"],
-          "prestige": "52",
-          "hexColor": "#046A38"
-        },
-        {
-          "name": "UAB Blazers",
-          "state": "Alabama",
-          "abbreviation": "UAB",
-          "rival": ["USM"],
-          "prestige": "52",
-          "hexColor": "#006341"
-        },
-        {
-          "name": "FAU Owls",
-          "state": "Florida",
-          "abbreviation": "FAU",
-          "rival": ["FIU"],
-          "prestige": "49",
-          "hexColor": "#003366"
-      
-        },
-        {
-          "name": "Southern Miss Golden Eagles",
-          "state": "Mississippi",
-          "abbreviation": "USM",
-          "rival": ["UAB"],
-          "prestige": "46",
-          "hexColor": "#FFAB00"
-        },
-        {
-         "name": "Massachusetts Minutemen",
-         "state": "Oklahoma",
-         "abbreviation": "MASS",
-         "rival": ["CLT"],
-         "prestige": "48",
-         "hexColor": "#572932"
-        },
-        {
-          "name": "Marshall Thundering Heard",
-          "state": "West Virginia",
-          "abbreviation": "MRSH",
-          "rival": ["LIB"],
-          "prestige": "69",
-          "hexColor": "#00AC3E"
-        },
-        {
-          "name": "Middle Tennessee Blue Raiders",
-          "state": "Tennessee",
-          "abbreviation": "MTSU",
-          "rival": ["WKU"],
-          "prestige": "47",
-          "hexColor": "#0066CC"
-        },
-        {
-          "name": "Western Kentucky Hilltoppers",
-          "state": "Kentucky",
-          "abbreviation": "WKU",
-          "rival": ["MTSU"],
-          "prestige": "56",
-          "hexColor": "#C60C30"
-        },
-        {
-          "name": "Florida International Panthers",
-          "state": "Florida",
-          "abbreviation": "FIU",
-          "rival": ["FAU"],
-          "prestige": "50",
-          "hexColor": "#081E3F"
         }
       ]
     },
@@ -972,6 +797,180 @@
           "rival": ["USF"],
           "prestige": "78",
           "hexColor": "#BA9B37"
+        }
+      ]
+    },
+    {
+      "confFullName": "Conference USA",
+      "confPrestige": "55",
+      "confName": "CUSA",
+      "confTeams": [
+        {
+          "name": "Liberty Flames",
+          "state": "Virginia",
+          "abbreviation": "LIB",
+          "rival": ["MRSH"],
+          "prestige": "58",
+          "hexColor": "#002d62"
+        },
+        {
+          "name": "Charlotte Forty Niners",
+          "state": "North Carolina",
+          "abbreviation": "CLT",
+          "rival": ["MASS"],
+          "prestige": "52",
+          "hexColor": "#046A38"
+        },
+        {
+          "name": "UAB Blazers",
+          "state": "Alabama",
+          "abbreviation": "UAB",
+          "rival": ["USM"],
+          "prestige": "52",
+          "hexColor": "#006341"
+        },
+        {
+          "name": "FAU Owls",
+          "state": "Florida",
+          "abbreviation": "FAU",
+          "rival": ["FIU"],
+          "prestige": "49",
+          "hexColor": "#003366"
+        },
+        {
+          "name": "Southern Miss Golden Eagles",
+          "state": "Mississippi",
+          "abbreviation": "USM",
+          "rival": ["UAB"],
+          "prestige": "46",
+          "hexColor": "#FFAB00"
+        },
+        {
+         "name": "Massachusetts Minutemen",
+         "state": "Oklahoma",
+         "abbreviation": "MASS",
+         "rival": ["CLT"],
+         "prestige": "48",
+         "hexColor": "#572932"
+        },
+        {
+          "name": "Marshall Thundering Heard",
+          "state": "West Virginia",
+          "abbreviation": "MRSH",
+          "rival": ["LIB"],
+          "prestige": "69",
+          "hexColor": "#00AC3E"
+        },
+        {
+          "name": "Middle Tennessee Blue Raiders",
+          "state": "Tennessee",
+          "abbreviation": "MTSU",
+          "rival": ["WKU"],
+          "prestige": "47",
+          "hexColor": "#0066CC"
+        },
+        {
+          "name": "Western Kentucky Hilltoppers",
+          "state": "Kentucky",
+          "abbreviation": "WKU",
+          "rival": ["MTSU"],
+          "prestige": "56",
+          "hexColor": "#C60C30"
+        },
+        {
+          "name": "Florida International Panthers",
+          "state": "Florida",
+          "abbreviation": "FIU",
+          "rival": ["FAU"],
+          "prestige": "50",
+          "hexColor": "#081E3F"
+        }
+      ]
+    },
+    {
+      "confFullName": "Sun Belt",
+      "confPrestige": "50",
+      "confName": "SBC",
+      "confTeams": [
+        {
+          "name": "Coastal Carolina Chanticleers",
+          "state": "South Carolina",
+          "abbreviation": "CCU",
+          "rival": ["APP"],
+          "prestige": "55",
+          "hexColor": "#006F71"
+        },
+        {
+          "name": "South Alabama Jaguars",
+          "state": "Alabama",
+          "abbreviation": "USA",
+          "rival": ["TROY"],
+          "prestige": "67",
+          "hexColor": "#BF0D3E"
+        },
+        {
+          "name": "James Madison Dukes",
+          "state": "Virginia",
+          "abbreviation": "JMU",
+          "rival": ["ODU"],
+          "prestige": "69",
+          "hexColor": "#450084"
+        },
+        {
+          "name": "Georgia Southern Eagles",
+          "state": "Georgia",
+          "abbreviation": "UGS",
+          "rival": ["GSU"],
+          "prestige": "60",
+          "hexColor": "#011E41"
+        },
+        {
+          "name": "Appalachian State Mountaineers",
+          "state": "North Carolina",
+          "abbreviation": "APP",
+          "rival": ["CCU"],
+          "prestige": "58",
+          "hexColor": "#000000"
+        },
+        {
+          "name": "Georgia State Panthers",
+          "state": "Georgia",
+          "abbreviation": "GSU",
+          "rival": ["UGS"],
+          "prestige": "50",
+          "hexColor": "#0039A6"
+        },
+        {
+          "name": "Troy Trojans",
+          "state": "Alabama",
+          "abbreviation": "TROY",
+          "rival": ["USA"],
+          "prestige": "56",
+          "hexColor": "#8a2432"
+        },
+        {
+          "name": "Arkansas State Red Wolves",
+          "state": "Arkansas",
+          "abbreviation": "ARST",
+          "rival": ["JAX"],
+          "prestige": "53",
+          "hexColor": "#CC092F"
+        },
+        {
+          "name": "Old Dominion Monarchs",
+          "state": "Virginia",
+          "abbreviation": "ODU",
+          "rival": ["JMU"],
+          "prestige": "62",
+          "hexColor": "#828A8F"
+        },
+        {
+         "name": "Jacksonville State Gamecocks",
+         "state": "Alabama",
+         "abbreviation": "JAX",
+         "rival": ["ARST"],
+         "prestige": "63",
+         "hexColor": "#CC0000"
         }
       ]
     },
