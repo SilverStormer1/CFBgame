@@ -297,7 +297,7 @@
           "abbreviation": "TEX",
           "rival": ["TAMU"],
           "prestige": "94",
-          "hexColor": "#bf5700"
+          "hexColor": "#BF5700"
         },
         {
           "name": "Tulane Green Wave",
@@ -366,7 +366,7 @@
       ]
     },
     {
-      "confFullName": "Pacific Coast",
+      "confFullName": "Pacific Coastal",
       "confPrestige": "70",
       "confName": "PAC",
       "confTeams": [
