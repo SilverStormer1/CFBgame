@@ -3,7 +3,7 @@
     "SBC": "SEC",
     "MAC": "B10",
     "AAC": "ACC",
-    "CUSA": "B12",
+    "CUSA": "SWC",
     "MWC": "PAC",
     "CMP": "PRM"
   },
@@ -12,7 +12,7 @@
     "SEC": "SUN",
     "B10": "MAC",
     "ACC": "AAC",
-    "B12": "CUSA",
+    "SWC": "CUSA",
     "PAC": "MWC",
     "PRM": "CMP"
   },
